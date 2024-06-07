@@ -1,4 +1,4 @@
-package com.roadmap.streamAPI.amigoscode;
+package com.roadmap.streamapi.amigoscode.gettingstarted;
 
 @FunctionalInterface
 public interface EmailSender {
